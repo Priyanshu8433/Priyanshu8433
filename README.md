@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu8433&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Priyanshu8433&theme=dark&hide_border=true" alt="Priyanshu8433's GitHub Stats" />
 </div>
 
 ###
